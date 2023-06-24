@@ -1,9 +1,10 @@
-tensorflow-macos==2.10.0
-tensorflow-metal==0.6.0
-tensorflow_addons==0.17.1
-h5py==3.7.0
-Pillow==9.2.0
-tqdm==4.64.1
-protobuf==3.19
+tensorflow-macos==2.12.0
+# FP16 and BF16 support
+tensorflow-metal==1.0.1
+tensorflow_addons==0.20.0
+h5py==3.9.0
+Pillow==9.5.0
+tqdm==4.65.0
+protobuf==4.23.3
 ftfy==6.1.1
 regex==2022.9.13
